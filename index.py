@@ -35,4 +35,4 @@ client = MyClient(
     intents=discord.Intents.all()
 )
 
-client.run('MTA5MTgwNTc3NDM1Mjc1MjY5MQ.GhBv_x.SpowSQx9pNHqlQSEf33SKYsNtbuA4hOneVoULw')
+client.run('')
