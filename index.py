@@ -35,4 +35,4 @@ client = MyClient(
     intents=discord.Intents.all()
 )
 
-client.run('')
+client.run('') # your bots token goes here
